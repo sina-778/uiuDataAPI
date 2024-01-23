@@ -1,1 +1,1 @@
-# uiuDataAPI
+The web application for the UIU Machine Learning data repository will be designed using the Repository Design Pattern, which acts as an intermediary layer between the application's business logic and data storage. A server-side language PHP was selected for its scalability and compatibility with various databases and front-end frameworks to implement the RESTful API.
